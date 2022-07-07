@@ -56,13 +56,6 @@ sudo curl -sSL https://raw.githubusercontent.com/ros/rosdistro/master/ros.key  -
 # Lec3 lec3 윈도우에서 ROS 2 Foxy설치
 + 윈도우에서는 exe파일 하나하나 설치 눌러야 하는 귀찮음 있음  
 + 그래서 Chocolatey 프로그램 이용  
-<<<<<<< HEAD
 + 참고 https://puzzling-cashew-c4c.notion.site/ROS-2-Foxy-Windows-10-fb71f72e88d04dc38b6246aa079347e4
++ 우분투에서 오류 나서 window에서 할 예정
 
-=======
-
-'''  
-PowerShell  
-$ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
-'''
->>>>>>> 2fbf3b6ec96beef9f75cd656008d0ea0ecac4cfa
