@@ -1,7 +1,7 @@
 # 2022.07.16 토요일
 # 4강 Gazebo Simulation
 
-<br/> 2강 강의노트
+<br/> 4강 강의노트
 + https://puzzling-cashew-c4c.notion.site/Gazebo-Simulation-a005ee3fa0cb45f19f86cc5d89ca4f1f
 
 
