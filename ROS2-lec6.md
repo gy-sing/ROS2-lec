@@ -1,7 +1,7 @@
 # 2022.07.16 토요일
 # 6강 ROS 2 Node, Package와 기본 커멘드 라인 
 
-<br/> 2강 강의노트
+<br/> 6강 강의노트
 + https://puzzling-cashew-c4c.notion.site/ROS-2-Launch-launch-file-55c2125808ef4b64bade278852b37d6e
 
 <br/>
