@@ -1,10 +1,3 @@
-```
-ros2 launch gcamp_gazebo gcamp_world.launch.py
+# 2022.9.12 ~
+# Ros2 정리 (책 : 혼자공부하는 로봇 SW)
 
-
-ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args -r __ns:=/skidbot
-
-
-
-
-```
